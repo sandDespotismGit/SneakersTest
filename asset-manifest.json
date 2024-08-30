@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cc5e0cc0.css",
+    "main.js": "./static/js/main.566dcae5.js",
+    "static/media/geo.svg": "./static/media/geo.6251a78864a26a57918440fa16762357.svg",
+    "static/media/logo.png": "./static/media/logo.34e31e1f6fe2b62cf7c9.png",
+    "static/media/fav.svg": "./static/media/fav.de4ce9050e79c9208c3b356bc9b074ff.svg",
+    "static/media/home.svg": "./static/media/home.878b0028ceb53c6a377ebff5abf2151d.svg",
+    "static/media/telegram_icon.svg": "./static/media/telegram_icon.94e4fd044b5d152def9906dae9bd1f07.svg",
+    "static/media/catalog.svg": "./static/media/catalog.4706cf718c005d6b223b795dbbffbfc8.svg",
+    "index.html": "./index.html",
+    "static/media/shopping_cart_inactive.svg": "./static/media/shopping_cart_inactive.54b6b94c8283fd310b8ae0d8e9fd7ea5.svg",
+    "static/media/arrow_right_icon.svg": "./static/media/arrow_right_icon.04b4787910cf5072a43de6742a494b97.svg",
+    "main.cc5e0cc0.css.map": "./static/css/main.cc5e0cc0.css.map",
+    "main.566dcae5.js.map": "./static/js/main.566dcae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc5e0cc0.css",
+    "static/js/main.566dcae5.js"
+  ]
+}
